@@ -15,3 +15,4 @@ Add a hyperlink to your lab1 assignment here:
 * Tom De Moor: https://github.com/LiesbethVanaerschot/labo.git
 * Caro Baten: https://github.com/ritchiejacobs/webtech2-lab1.git
 * Anton Wijns: https://github.com/ritchiejacobs/webtech2-lab1.git
+* Jurgen Barbier: https://github.com/jurgb/webtechweek1.git
