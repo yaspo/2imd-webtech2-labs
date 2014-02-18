@@ -14,3 +14,4 @@ Add a hyperlink to your lab1 assignment here:
 * Mahammed Zishan Khan: https://github.com/bartgoris/2imd-webtech2-lab1.git
 * Tom De Moor: https://github.com/LiesbethVanaerschot/labo.git
 * Caro Baten: https://github.com/ritchiejacobs/webtech2-lab1.git
+* Anton Wijns: https://github.com/ritchiejacobs/webtech2-lab1.git
