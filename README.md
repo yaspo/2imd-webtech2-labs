@@ -18,3 +18,4 @@ Add a hyperlink to your lab1 assignment here:
 * Jurgen Barbier: https://github.com/jurgb/webtechweek1.git
 * Jens Ivens: https://github.com/jurgb/webtechweek1.git
 * Yannick Nijs: https://github.com/jurgb/webtechweek1.git
+* Brent Stappaerts: https://github.com/thomasdbock/kookboek.git
