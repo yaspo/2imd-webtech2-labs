@@ -16,3 +16,4 @@ Add a hyperlink to your lab1 assignment here:
 * Caro Baten: https://github.com/ritchiejacobs/webtech2-lab1.git
 * Anton Wijns: https://github.com/ritchiejacobs/webtech2-lab1.git
 * Jurgen Barbier: https://github.com/jurgb/webtechweek1.git
+* Jens Ivens: https://github.com/jurgb/webtechweek1.git
