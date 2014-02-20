@@ -21,4 +21,5 @@ Add a hyperlink to your lab1 assignment here:
 * Brent Stappaerts: https://github.com/thomasdbock/kookboek.git
 * Bart Goris: https://github.com/bartgoris/2imd-webtech2-lab1.git
 * Lars Peeters: https://github.com/Moussa112/Kapsalon.git
+* Dieter Meys: https://github.com/mattiasdelang/recept.git
 
