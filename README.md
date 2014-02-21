@@ -23,3 +23,4 @@ Add a hyperlink to your lab1 assignment here:
 * Lars Peeters: https://github.com/Moussa112/Kapsalon.git
 * Moussa Chaabar: https://github.com/Moussa112/Kapsalon.git
 * Ziggy Verstrepen: https://github.com/Moussa112/Kapsalon.git
+* Maïteh Mertens: https://github.com/Laulitz/webtech.git
