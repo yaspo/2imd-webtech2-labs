@@ -26,4 +26,5 @@ Add a hyperlink to your lab1 assignment here:
 * Kimberly Gysbrechts Segers: https://github.com/jurgb/webtechweek1.git
 * Mattias Delang: https://github.com/mattiasdelang/recept.git
 * Dieter Meys: https://github.com/mattiasdelang/recept.git
+* Christof Vanoppen: https://github.com/mattiasdelang/recept.git
 * Mike Radino: https://github.com/ritchiejacobs/webtech2-lab1.git
