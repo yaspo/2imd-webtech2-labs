@@ -22,4 +22,4 @@ Add a hyperlink to your lab1 assignment here:
 * Bart Goris: https://github.com/bartgoris/2imd-webtech2-lab1.git
 * Lars Peeters: https://github.com/Moussa112/Kapsalon.git
 * Moussa Chaabar: https://github.com/Moussa112/Kapsalon.git
-
+* Ziggy Verstrepen: https://github.com/Moussa112/Kapsalon.git
