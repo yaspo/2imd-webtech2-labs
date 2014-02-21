@@ -24,5 +24,5 @@ Add a hyperlink to your lab1 assignment here:
 * Moussa Chaabar: https://github.com/Moussa112/Kapsalon.git
 * Ziggy Verstrepen: https://github.com/Moussa112/Kapsalon.git
 * Kimberly Gysbrechts Segers: https://github.com/jurgb/webtechweek1.git
+* Mattias Delang: https://github.com/mattiasdelang/recept.git
 * Dieter Meys: https://github.com/mattiasdelang/recept.git
-
