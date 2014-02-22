@@ -1,4 +1,4 @@
-# 2imd-webtech2-labs
+﻿# 2imd-webtech2-labs
 
 ## LAB 1
 Add a hyperlink to your lab1 assignment here:
@@ -28,4 +28,5 @@ Add a hyperlink to your lab1 assignment here:
 * Dieter Meys: https://github.com/mattiasdelang/recept.git
 * Christof Vanoppen: https://github.com/mattiasdelang/recept.git
 * Mike Radino: https://github.com/ritchiejacobs/webtech2-lab1.git
+* Maïteh Mertens: https://github.com/Laulitz/webtech.git
 * Tom Dirix: https://github.com/Laulitz/webtech.git
