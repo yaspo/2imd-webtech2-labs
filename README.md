@@ -31,3 +31,4 @@ Add a hyperlink to your lab1 assignment here:
 * Maïteh Mertens: https://github.com/Laulitz/webtech.git
 * Tom Dirix: https://github.com/Laulitz/webtech.git
 * Mitchell Desmet: https://github.com/AxelVerstappen/recipewebsite.git
+* Glenn Van Haute: https://github.com/Moussa112/Kapsalon.git
