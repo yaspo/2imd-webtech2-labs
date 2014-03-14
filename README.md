@@ -11,7 +11,7 @@ Add a hyperlink to your lab1 assignment here:
 * Laetitia Van Espen: https://github.com/L-VE/webtech2_labos.git
 * Ritchie Jacobs: https://github.com/ritchiejacobs/webtech2-lab1.git
 * Liesbeth Vanaerschot: https://github.com/LiesbethVanaerschot/labo.git
-* Mahammed Zishan Khan: https://github.com/bartgoris/2imd-webtech2-lab1.git
+* Mahammed Zishan Khan: https://github.com/silent785/webtech2
 * Tom De Moor: https://github.com/LiesbethVanaerschot/labo.git
 * Caro Baten: https://github.com/ritchiejacobs/webtech2-lab1.git
 * Anton Wijns: https://github.com/ritchiejacobs/webtech2-lab1.git
