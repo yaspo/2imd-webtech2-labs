@@ -9,7 +9,7 @@ Add a hyperlink to your lab1 assignment here:
 * Vincent Verhulst: https://github.com/thomasdbock/kookboek.git
 * Jannes Vermeersch: https://github.com/bartgoris/2imd-webtech2-lab1.git
 * Laetitia Van Espen: https://github.com/L-VE/webtech2_labos.git
-* Ritchie Jacobs: https://github.com/ritchiejacobs/webtech2-lab1.git
+* Ritchie Jacobs: https://github.com/ritchiejacobs/webtech2
 * Liesbeth Vanaerschot: https://github.com/LiesbethVanaerschot/webtech2.git
 * Mahammed Zishan Khan: https://github.com/silent785/webtech2
 * Tom De Moor: https://github.com/tommooredotbe/webtech2-bestrepositoryeu
