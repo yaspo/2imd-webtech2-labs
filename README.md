@@ -20,7 +20,7 @@ Add a hyperlink to your lab1 assignment here:
 * Yannick Nijs: https://github.com/yncredible/webtech2.git
 * Brent Stappaerts: https://github.com/thomasdbock/kookboek.git
 * Bart Goris: https://github.com/bartgoris/Webtechnologie-2
-* Lars Peeters: https://github.com/Moussa112/Kapsalon.git
+* Lars Peeters: http://larspeeters.github.io/
 * Moussa Chaabar: https://github.com/Moussa112/Kapsalon.git
 * Ziggy Verstrepen: https://github.com/ZiggyV/webtech2.git
 * Kimberly Gysbrechts Segers: https://github.com/jurgb/webtechweek1.git
