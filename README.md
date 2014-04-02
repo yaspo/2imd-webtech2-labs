@@ -28,7 +28,7 @@ Add a hyperlink to your lab1 assignment here:
 * Dieter Meys: https://github.com/mattiasdelang/recept.git
 * Christof Vanoppen: https://github.com/mattiasdelang/recept.git
 * Mike Radino: https://github.com/ritchiejacobs/webtech2-lab1.git
-* Maïteh Mertens: https://github.com/Laulitz/webtech.git
+* Maïteh Mertens: https://github.com/Maiteh/Webtech2.git
 * Tom Dirix: https://github.com/Laulitz/webtech.git
 * Mitchell Desmet: https://github.com/AxelVerstappen/recipewebsite.git
 * Glenn Van Haute: https://github.com/Moussa112/Kapsalon.git
