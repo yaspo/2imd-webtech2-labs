@@ -30,7 +30,7 @@ Add a hyperlink to your lab1 assignment here:
 * Mike Radino: https://github.com/ritchiejacobs/webtech2-lab1.git
 * Maïteh Mertens: https://github.com/Maiteh/Webtech2.git
 * Tom Dirix: https://github.com/tomdirix/Webtech2
-* Mitchell Desmet: https://github.com/AxelVerstappen/recipewebsite.git
+* Mitchell Desmet: https://github.com/mdsmt/webtech2
 * Glenn Van Haute: https://github.com/Moussa112/Kapsalon.git
 * Laurissa Bregman: https://github.com/Laulitz/webtechOefeningen.git
 * Kim Janssens: https://github.com/kimjanssens/webtech2
