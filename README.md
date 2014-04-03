@@ -18,7 +18,7 @@ Add a hyperlink to your lab1 assignment here:
 * Jurgen Barbier: https://github.com/jurgb/2imd-webtech2-labs.git
 * Jens Ivens: https://github.com/jurgb/webtechweek1.git
 * Yannick Nijs: https://github.com/yncredible/webtech2.git
-* Brent Stappaerts: https://github.com/thomasdbock/kookboek.git
+* Brent Stappaerts: https://github.com/BrentStappaerts/Webtechnologie.git
 * Bart Goris: https://github.com/bartgoris/Webtechnologie-2
 * Lars Peeters: http://larspeeters.github.io/
 * Moussa Chaabar: https://github.com/Moussa112/Kapsalon.git
