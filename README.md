@@ -27,7 +27,7 @@ Add a hyperlink to your lab1 assignment here:
 * Mattias Delang: https://github.com/mattiasdelang/webtech2
 * Dieter Meys: https://github.com/mattiasdelang/recept.git
 * Christof Vanoppen: https://github.com/mattiasdelang/recept.git
-* Mike Radino: https://github.com/ritchiejacobs/webtech2-lab1.git
+* Mike Radino: https://github.com/mikeradino/2imd-webtech2-mikeradino
 * Maïteh Mertens: https://github.com/Maiteh/Webtech2.git
 * Tom Dirix: https://github.com/tomdirix/Webtech2
 * Mitchell Desmet: https://github.com/mdsmt/webtech2
