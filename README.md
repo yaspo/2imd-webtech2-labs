@@ -22,7 +22,7 @@ Add a hyperlink to your lab1 assignment here:
 * Bart Goris: https://github.com/bartgoris/Webtechnologie-2
 * Lars Peeters: http://larspeeters.github.io/
 * Moussa Chaabar: https://github.com/Moussa112/Kapsalon.git
-* Ziggy Verstrepen: https://github.com/ZiggyV/webtech2.git
+* Ziggy Verstrepen: https://github.com/ZiggyV/2imd-webtech2-labs.git
 * Kimberly Gysbrechts Segers: https://github.com/Kimberlygs/webtech2.git
 * Mattias Delang: https://github.com/mattiasdelang/webtech2
 * Dieter Meys: https://github.com/mattiasdelang/recept.git
