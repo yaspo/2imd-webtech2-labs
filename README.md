@@ -16,3 +16,4 @@ Add a hyperlink to your lab1 assignment here:
 * Stijn D'Hollander: https://github.com/stijnDH/lab1-recepten
 * Sara Barrera: https://github.com/MarijnR/ayecaptain
 * Veerle Devos: https://github.com/JasperDS/webtech-lab17
+* Lucas Poignonnec: https://github.com/stijnDH/lab1-recepten
