@@ -4,3 +4,4 @@
 Add a hyperlink to your lab1 assignment here:
 
 * Firstname Lastname: https://github.com/yourusername/yourrepo.git
+* Bart Goris: https://github.com/bartgoris/Webtechnologie-Opdracht
