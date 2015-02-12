@@ -1,4 +1,4 @@
-﻿# 2imd-webtech2-labs
+# 2imd-webtech2-labs
 
 ## LAB 1
 Add a hyperlink to your lab1 assignment here:
@@ -18,3 +18,4 @@ Add a hyperlink to your lab1 assignment here:
 * Veerle Devos: https://github.com/JasperDS/webtech-lab17
 * Marijn Rutten: https://github.com/MarijnR/ayecaptain.git
 * Thais Lenglez: https://github.com/MarijnR/ayecaptain.git
+* Mannaert Yoshi: https://github.com/stijnDH/lab1-recepten
