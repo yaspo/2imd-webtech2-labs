@@ -27,3 +27,4 @@ Add a hyperlink to your lab1 assignment here:
 * Mathijs Van den Broeck: https://github.com/Mathijsvdb/GITtowork
 * Rob Rijken: https://github.com/Robke22/Lab1
 * Sofie Keirsmaekers: https://github.com/SofieK/Lab1Webtech
+* Matthias Christiaens: https://github.com/MatthiasChristiaens/Lab1Webtech
