@@ -1,4 +1,4 @@
-﻿# 2imd-webtech2-labs
+# 2imd-webtech2-labs
 
 ## LAB 1
 Add a hyperlink to your lab1 assignment here:
@@ -28,3 +28,4 @@ Add a hyperlink to your lab1 assignment here:
 * Rob Rijken: https://github.com/Robke22/Lab1
 * Sofie Keirsmaekers: https://github.com/SofieK/Lab1Webtech
 * Matthias Christiaens: https://github.com/MatthiasChristiaens/Lab1Webtech
+* Tom Vanderheyden: https://github.com/TomVDH/Lab1
