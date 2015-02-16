@@ -1,4 +1,4 @@
-# 2imd-webtech2-labs
+﻿# 2imd-webtech2-labs
 
 ## LAB 1
 Add a hyperlink to your lab1 assignment here:
@@ -24,3 +24,4 @@ Add a hyperlink to your lab1 assignment here:
 * Grace Yip: https://github.com/GY22/WebTech2-Grace.git
 * Niels Roels: https://github.com/Mathijsvdb/GITtowork
 * Sander Van keer: https://github.com/SanderVanKeer/Lab1Webtech
+* Mathijs Van den Broeck: https://github.com/Mathijsvdb/GITtowork
