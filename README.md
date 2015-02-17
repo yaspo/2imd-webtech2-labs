@@ -1,4 +1,4 @@
-# 2imd-webtech2-labs
+﻿# 2imd-webtech2-labs
 
 ## LAB 1
 Add a hyperlink to your lab1 assignment here:
@@ -30,9 +30,6 @@ Add a hyperlink to your lab1 assignment here:
 * Matthias Christiaens: https://github.com/MatthiasChristiaens/Lab1Webtech
 * Tom Vanderheyden: https://github.com/TomVDH/Lab1
 * Kevin Corne: https://github.com/lordsilou/Lab1Webtech
-<<<<<<< HEAD
-* Ian Emsens: https://github.com/JasperDS/webtech-lab1
-=======
 * Andreas Busschop: https://github.com/stijnDH/lab1-recepten
 * Bram De Nyn: https://github.com/Robke22/Lab1
->>>>>>> upstream/master
+* Ian Emsens: https://github.com/JasperDS/webtech-lab1
