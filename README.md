@@ -29,3 +29,4 @@ Add a hyperlink to your lab1 assignment here:
 * Sofie Keirsmaekers: https://github.com/SofieK/Lab1Webtech
 * Matthias Christiaens: https://github.com/MatthiasChristiaens/Lab1Webtech
 * Tom Vanderheyden: https://github.com/TomVDH/Lab1
+* Kevin Corne: https://github.com/lordsilou/Lab1Webtech
