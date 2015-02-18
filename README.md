@@ -32,3 +32,4 @@ Add a hyperlink to your lab1 assignment here:
 * Kevin Corne: https://github.com/lordsilou/Lab1Webtech
 * Andreas Busschop: https://github.com/stijnDH/lab1-recepten
 * Bram De Nyn: https://github.com/Robke22/Lab1
+* Lucas Poignonnec: https://github.com/stijnDH/lab1-recepten
