@@ -33,4 +33,4 @@ Add a hyperlink to your lab1 assignment here:
 * Andreas Busschop: https://github.com/stijnDH/lab1-recepten
 * Bram De Nyn: https://github.com/Robke22/Lab1
 * Lucas Poignonnec: https://github.com/stijnDH/lab1-recepten
-* Ian Emsens: https://github.com/JasperDS/webtech-lab1
+* Ian Emsens: https://bitbucket.org/IEmsens/webtech2
