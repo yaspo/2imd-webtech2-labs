@@ -21,7 +21,7 @@ Add a hyperlink to your lab1 assignment here:
 * Alexandre Tozzi: https://github.com/Mathijsvdb/GITtowork
 * Jonas Reymen: https://github.com/Mathijsvdb/GITtowork
 * Grace Yip: https://github.com/GY22/WebTech2-Grace.git
-* Niels Roels: https://github.com/Mathijsvdb/GITtowork
+* Niels Roels: https://github.com/NielsRoels/Webtech2
 * Sander Van keer: https://github.com/SanderVanKeer/Lab1Webtech
 * Mathijs Van den Broeck: https://github.com/Mathijsvdb/GITtowork
 * Rob Rijken: https://github.com/Robke22/Lab1
