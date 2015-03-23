@@ -19,7 +19,7 @@ Add a hyperlink to your lab1 assignment here:
 * Thais Lenglez: https://github.com/MarijnR/ayecaptain.git
 * Mannaert Yoshi: https://github.com/stijnDH/lab1-recepten
 * Alexandre Tozzi: https://github.com/Mathijsvdb/GITtowork
-* Jonas Reymen: https://github.com/Mathijsvdb/GITtowork
+* Jonas Reymen: https://bitbucket.org/jonasr001/webtech_2
 * Grace Yip: https://github.com/GY22/WebTech2-Grace.git
 * Niels Roels: https://github.com/NielsRoels/Webtech2
 * Sander Van keer: https://SanderVK@bitbucket.org/SanderVK/sander-van-keer-webtech2.git
