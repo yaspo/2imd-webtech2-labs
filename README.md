@@ -12,7 +12,7 @@ Add a hyperlink to your lab1 assignment here:
 * Jasper De Smet: https://bitbucket.org/JasperDS/imd-webtech
 * Pieter Van der Elst: https://github.com/JasperDS/webtech-lab1
 * Glenn Van Haute:  https://github.com/MarijnR/ayecaptain
-* Stijn D'Hollander: https://github.com/stijnDH/lab1-recepten
+* Stijn D'Hollander: https://bitbucket.org/StijnDHollander/webtech-2
 * Sara Barrera: https://bitbucket.org/sarabarrerariano/webtechnologie.git
 * Veerle Devos: https://github.com/JasperDS/webtech-lab17
 * Marijn Rutten: https://github.com/MarijnR/ayecaptain.git
