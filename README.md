@@ -7,7 +7,7 @@ Add a hyperlink to your lab1 assignment here:
 * Bart Goris: https://github.com/bartgoris/Webtechnologie-Opdracht
 * Moussa Chaabar: https://github.com/Moussa112/GITToWork
 * Maïteh Mertens: https://bitbucket.org/Maith/webtech2
-* Niels Meulders: https://github.com/bartgoris/Webtechnologie-Opdracht
+* Niels Meulders: https://github.com/NielsMeulders/webtech2
 * Brent Stappaerts: https://github.com/bartgoris/Webtechnologie-Opdracht
 * Jasper De Smet: https://bitbucket.org/JasperDS/imd-webtech
 * Pieter Van der Elst: https://github.com/JasperDS/webtech-lab1
