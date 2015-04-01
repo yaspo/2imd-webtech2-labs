@@ -14,7 +14,7 @@ Add a hyperlink to your lab1 assignment here:
 * Glenn Van Haute:  https://github.com/MarijnR/ayecaptain
 * Stijn D'Hollander: https://bitbucket.org/StijnDHollander/webtech-2
 * Sara Barrera: https://bitbucket.org/sarabarrerariano/webtechnologie.git
-* Veerle Devos: https://github.com/JasperDS/webtech-lab17
+* Veerle Devos: https://bitbucket.org/VeerleDevos/webtech
 * Marijn Rutten: https://github.com/MarijnR/ayecaptain.git
 * Thais Lenglez: https://github.com/MarijnR/ayecaptain.git
 * Mannaert Yoshi: https://github.com/stijnDH/lab1-recepten
