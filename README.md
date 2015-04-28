@@ -16,7 +16,7 @@ Add a hyperlink to your lab1 assignment here:
 * Sara Barrera: https://bitbucket.org/sarabarrerariano/webtechnologie.git
 * Veerle Devos: https://bitbucket.org/VeerleDevos/webtech
 * Marijn Rutten: https://github.com/MarijnR/ayecaptain.git
-* Thais Lenglez: https://github.com/MarijnR/ayecaptain.git
+* Thais Lenglez: https://bitbucket.org/thaislenglez/webtech2
 * Mannaert Yoshi: https://bitbucket.org/YoshiMannaert/coursework
 * Alexandre Tozzi: https://github.com/Mathijsvdb/GITtowork
 * Jonas Reymen: https://bitbucket.org/jonasr001/webtech_2
