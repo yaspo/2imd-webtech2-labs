@@ -10,7 +10,7 @@ Add a hyperlink to your lab1 assignment here:
 * Niels Meulders: https://github.com/NielsMeulders/webtech2
 * Brent Stappaerts: https://github.com/bartgoris/Webtechnologie-Opdracht
 * Jasper De Smet: https://bitbucket.org/JasperDS/imd-webtech
-* Pieter Van der Elst: https://github.com/JasperDS/webtech-lab1
+* Pieter Van der Elst: https://bitbucket.org/PieterVDE/webtechnologie-2
 * Glenn Van Haute:  https://github.com/MarijnR/ayecaptain
 * Stijn D'Hollander: https://bitbucket.org/StijnDHollander/webtech-2
 * Sara Barrera: https://bitbucket.org/sarabarrerariano/webtechnologie.git
