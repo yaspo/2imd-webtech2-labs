@@ -1,4 +1,4 @@
-﻿# 2imd-webtech2-labs
+# 2imd-webtech2-labs
 
 ## LAB 1
 Add a hyperlink to your lab1 assignment here:
