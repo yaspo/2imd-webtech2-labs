@@ -1,1 +1,1 @@
-* Didier Kerinckx : "https://github.com/Bram-Anhinga/Webtech2_Lab1.git"
+* Didier Kerinckx : "https://github.com/DidierK/Webtech2"
