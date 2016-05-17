@@ -1,2 +1,2 @@
- ink labo 1: https://github.com/DamonBaesen/webtechnologie2
+ ink labo 1: https://github.com/DamonBaesen/webtechnologie_baesendamon
  
