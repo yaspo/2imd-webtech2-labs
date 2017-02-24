@@ -1,1 +1,1 @@
-https://github.com/MiguelIMD/2imd-webtech2-labs.git
+https://github.com/MiguelIMD/Webtechnologie2-Portfolio
