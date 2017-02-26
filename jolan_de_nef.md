@@ -1,1 +1,1 @@
-https://github.com/linocoltura/IMDrecipes
+https://github.com/JolanDeNef/2imd-webtech2-labs
