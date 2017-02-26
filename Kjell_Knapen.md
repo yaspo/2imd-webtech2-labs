@@ -1,1 +1,1 @@
-https://github.com/KaiBotan/2imd-webtech2-labs-1.git
+https://github.com/Wim81/Lab1_GIT_To_Work.git
