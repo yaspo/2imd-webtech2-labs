@@ -1,1 +1,1 @@
-https://github.com/linocoltura/IMDrecipes
+https://github.com/linocoltura/webtech2-labs
