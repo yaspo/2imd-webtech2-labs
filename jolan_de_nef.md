@@ -1,1 +1,1 @@
-https://github.com/JolanDeNef/2imd-webtech2-labs
+https://github.com/JolanDeNef/Labo-WebTech2.git
