@@ -5,3 +5,5 @@
 * make sure you add an individual file to this repository firstname_lastname.md with a link to your GIT labs
 
 John Doe - https://github.com/John-Doe/Webtechnologie2-labs.git
+
+![alt tag](GitIt.PNG)
