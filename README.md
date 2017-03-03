@@ -6,4 +6,3 @@
 
 John Doe - https://github.com/John-Doe/Webtechnologie2-labs.git
 
-![alt tag](GitIt.PNG)
