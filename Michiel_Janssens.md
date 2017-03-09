@@ -1,1 +1,1 @@
-Michiel Janssens https://github.com/HybridFox/Webtech2-MiniSite
+Michiel Janssens https://github.com/MichielJanssens/portfolio_michiel_janssens
