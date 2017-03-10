@@ -1,1 +1,1 @@
-Pieterjan Van Saet - https://github.com/HybridFox/Webtech2-MiniSite.git
+Pieterjan Van Saet - https://github.com/HybridFox/Webtechnologie2
