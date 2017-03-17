@@ -1,1 +1,1 @@
-﻿link labo 1: https://github.com/ArneBerckmans/Lab1GITtowork
+﻿link labo 1: https://github.com/ArneBerckmans/webtechnologie2
