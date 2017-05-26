@@ -1,1 +1,1 @@
-Link to webtech 2 labs repo: https://github.com/Draconic-saint/IMD-webtech2
+link naar portfolio repo: https://github.com/Joris-Keirsmeakers/Webtech2-portfolio
