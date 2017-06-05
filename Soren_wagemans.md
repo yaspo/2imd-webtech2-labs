@@ -1,1 +1,1 @@
-https://github.com/SanderVanHullebusch/Webtechnologie2-labs
+https://github.com/sorenwagemans/Webtechnologie2-labs
