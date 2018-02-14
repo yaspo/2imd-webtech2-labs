@@ -1,1 +1,0 @@
-Kobe Vervoort: https://github.com/KobeVervoort/Portfolio
