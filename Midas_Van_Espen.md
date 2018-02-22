@@ -10,3 +10,6 @@ https://github.com/mdaelemans/webtechlab1
 
 ## Flex-box Froggy
 ![alt text](https://image.ibb.co/kYogJH/Screenshot_2.jpg)
+
+## Grid Garden
+![alt text](https://image.ibb.co/miSVTH/Screenshot_3.jpg)
