@@ -1,6 +1,6 @@
 # Robert Vaida - Webtech 2 progress
 
-### Week 1
+### Week 1 - Git
 
 Kweeni Project link -> [link to repository](https://github.com/RafaelDesignBE/project_kweeni) 
 
@@ -9,7 +9,7 @@ Git-It link -> [link to screenshot](https://imgur.com/0kjwCLU)
 ![alt text](https://i.imgur.com/0kjwCLU.png "Git-It")
 
 
-### Week 2
+### Week 2 - Flexbox & CSS Grid
 
 Flexbox Froggy link -> [link to screenshot](https://imgur.com/a/5H7PG)
 
