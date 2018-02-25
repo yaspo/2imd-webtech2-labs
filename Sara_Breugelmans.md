@@ -1,22 +1,22 @@
 Sara Breugelmans
 
 
-WEEK 1
+# WEEK 1 #
 
 Link naar github KWEENI
   https://github.com/gsaldanas/Lab1-Git-To-Work
 
 Screenshot Git-It
-  ![alt text](https://ibb.co/e6F5yH)
+  ![alt text](https://s17.postimg.org/wmw58retb/1718_PHP1_Opdracht1_Breugelmans_S.png)
 
 
-WEEK 2
+# WEEK 2 #
 
 Screenshot flexboxfroggy
-  ![alt text](https://ibb.co/gdA2Cc)
+  ![alt text](https://s17.postimg.org/d6bfm5jof/Flexboxfroggy_SB.png)
 
 Screenshot cssgridgarden
-  ![alt text](https://ibb.co/mNOpsc)
+  ![alt text](https://s17.postimg.org/k9jb1sc9b/Gridgarden_SB.png)
 
 Link KWEENI codepen:  
   https://codepen.io/sarabreugelmans2/pen/OQwoKd?editors=1100
