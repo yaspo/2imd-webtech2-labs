@@ -1,6 +1,16 @@
-LAB 1 LINK:
-https://github.com/Ditger/Lab1.git
+#  EMILY BERGHEN
 
+### ✨ WEEK 1 - GIT
 
-SCREENSHOT TRYGIT:
-https://drive.google.com/file/d/1tmk-e1PA5XzNJvN14SIRvQHdgou9JWUC/view?usp=sharing
+[Link to Github repository](https://github.com/Ditger/Lab1.git)
+
+![alt text](https://i.imgur.com/d4mWqrn.png)
+
+### ✨ WEEK 2 - CSS GRID + FLEXBOX
+
+[Link to codepen.io](https://codepen.io/emilyberghen/pen/MQXrjW)
+[Link to Github repository](https://github.com/frederik850/webtech3/)
+
+![alt text](https://i.imgur.com/ok3m7Pw.png)
+
+![alt text](https://i.imgur.com/pyY8aPar.png)
