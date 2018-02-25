@@ -13,4 +13,4 @@
 - Screenshot Flexboxfroggy
 ![Screenshot](https://i.imgur.com/IlUcidI.jpg) 
 - Screenshot Grid Garden
-![Screenshot](https://i.imgur.com/IlUcidI.jpg) 
+![Screenshot](https://i.imgur.com/RAGkKoJ.png) 
