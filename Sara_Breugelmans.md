@@ -13,7 +13,7 @@ Screenshot Git-It
 # WEEK 2 #
 
 Screenshot flexboxfroggy
-  ![alt text](https://s17.postimg.org/d6bfm5jof/Flexboxfroggy_SB.png)
+  ![alt text](https://photos.app.goo.gl/1VGo9AE7qMa1KWm53)
 
 Screenshot cssgridgarden
   ![alt text](https://s17.postimg.org/k9jb1sc9b/Gridgarden_SB.png)
