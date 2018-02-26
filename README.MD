@@ -1,2 +1,2 @@
 # Instructions
-Create a file Firstname_Lastname.md with a link to your project repository
+Create a file Firstname_Lastname.md and keep a weekly skills journal
