@@ -9,7 +9,7 @@
 
 # Week 2 - CSS Flex & Grid
 
-- [CodePen Link]()
+- [CodePen Link](https://codepen.io/Kobo_one/pen/ddgrKr)
 - Screenshot Flexboxfroggy
 ![Screenshot](https://i.imgur.com/IlUcidI.jpg) 
 - Screenshot Grid Garden
