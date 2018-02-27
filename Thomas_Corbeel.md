@@ -8,7 +8,7 @@ https://github.com/Corbeel1/Webtech-3-lab-1
 
 https://codepen.io/Corbeel1/pen/rJKzgm
 
-https://github.com/Corbeel1/Flexbox-grid
+https://github.com/MindfulMissfit/css-grid
 
 ![alt text](https://i.imgur.com/sDWu0lU.png)
 
