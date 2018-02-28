@@ -4,10 +4,13 @@
 ### Les 1
 
   - https://github.com/gsaldanas/Lab1-Git-To-Work 
-  - git it: https://imgur.com/nHvXkWR
+  - git it: 
+  [Imgur](https://i.imgur.com/nHvXkWR.png)
 
 ### Les 2
 
-  - css flex: https://imgur.com/pXBNoqt
-  - css grid: https://imgur.com/hwWLj40
+  - css flex: 
+  [Imgur](https://i.imgur.com/hwWLj40.png)
+  - css grid: 
+  [gridgarden](https://i.imgur.com/pXBNoqt.png)
   - link to page 3 of Kweeni: https://codepen.io/Akasake/pen/KQJwVa
