@@ -18,4 +18,4 @@
 ![screenshot](https://i.imgur.com/PNFPq0F.png)
 
 - gridGarden:
-$[screenshot](https://i.imgur.com/sPevKkx.png)
+![screenshot](https://i.imgur.com/sPevKkx.png)
