@@ -4,12 +4,11 @@
 https://github.com/Ditger/Lab1
 
 **Git It**
-![screenshot](https://imgur.com/NTj7aYI)
+![Imgur](https://i.imgur.com/L1iOg3d.png)
 
 **try.github.io**
-![Screenshot](https://imgur.com/BuF0aG4)
-![Screenshot](https://imgur.com/0zU5ksQ)
-
+![Imgur](https://i.imgur.com/RzrprC1.jpg)
+![Imgur](https://i.imgur.com/XEYPbYk.jpg)
 
 ## Week 2 - FlexBox & CSS Grid ##
 
