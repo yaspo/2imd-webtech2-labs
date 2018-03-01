@@ -1,6 +1,6 @@
 # WEEK 1: GIT IT
 
-Team 6 repo: https://github.com/laurensdelombaert/laboTeam6
+Team 6 repo: <https://github.com/laurensdelombaert/laboTeam6>
 
 ## GIT IT screenshot
 
@@ -8,10 +8,10 @@ Team 6 repo: https://github.com/laurensdelombaert/laboTeam6
 
 # Week 2: Flexbox & CSS Grids
 
-Codepen: https://codepen.io/laurensdelombaert/pen/vdzBEr
-Upload test domain: http://laurenk170.170.axc.nl/webtech/grids/watis.html
+Codepen: <https://codepen.io/laurensdelombaert/pen/vdzBEr>
+Upload test domain: <http://laurenk170.170.axc.nl/webtech/grids/watis.html>
 
-Team 11 repo: https://github.com/laurensdelombaert/laboteam11
+Team 11 repo: <https://github.com/laurensdelombaert/laboteam11>
 
 ## Flexbox Froggy
 
@@ -23,5 +23,5 @@ Team 11 repo: https://github.com/laurensdelombaert/laboteam11
 
 # Week 3: ECS6
 
-Article about ECS6 for loops: https://hacks.mozilla.org/2015/04/es6-in-depth-iterators-and-the-for-of-loop/
-New in ECS6 website: http://es6-features.org/
+Article about ECS6 for loops: <https://hacks.mozilla.org/2015/04/es6-in-depth-iterators-and-the-for-of-loop/>
+New in ECS6 website: <http://es6-features.org/>
