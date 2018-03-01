@@ -6,7 +6,7 @@ https://github.com/LisaWijffels/GitToWork
 ## week 2
 
 ### link codepen 
-https://codepen.io/louizavanherp/pen/JpxPqR
+https://codepen.io/louizavanherp/pen/JpxPqR?editors=1100
 ### screenshot Froggi FLex 
 ![alt text](https://i.imgur.com/P0TDRfy.png)
 
