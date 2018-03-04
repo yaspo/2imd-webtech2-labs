@@ -20,3 +20,8 @@ Grid Garden link -> [link to screenshot](https://imgur.com/a/5H7PG)
 ![alt text](https://i.imgur.com/ZHfaB8z.png "Grid Garden")
 
 Kweeni Homepage link -> [link to codepen](https://codepen.io/robitica/pen/KQeZVL) 
+
+
+### Week 3 - ES6
+
+Notes App -> [link to codepen](https://codepen.io/robitica/pen/jZdewx) 
