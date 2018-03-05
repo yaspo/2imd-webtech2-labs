@@ -26,4 +26,4 @@ __CSS Grid Kweeni-page:__ https://codepen.io/Bix2/pen/GQXVLQ
 
 __Repository GitHub:__ https://github.com/Bix2/Lab3
 
-__Repository GitHub:__ https://codepen.io/Bix2/pen/ddajEK
+__Codepen:__ https://codepen.io/Bix2/pen/ddajEK
