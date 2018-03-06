@@ -7,6 +7,7 @@ In dit bestand kan u mijn werken voor het vak Webtech 3 [YP5536] raadplegen. Voo
 <!-- TOC -->
 
 - [Portfolio Laurens De Lombaert](#portfolio-laurens-de-lombaert)
+    - [Table of Contents](#table-of-contents)
     - [WEEK 1: GIT IT](#week-1-git-it)
         - [GIT IT screenshot](#git-it-screenshot)
     - [Week 2: Flexbox & CSS Grids](#week-2-flexbox--css-grids)
@@ -50,6 +51,6 @@ New in ECS6 website: <http://es6-features.org/>
 
 ### Links
 
-Codepen: https://codepen.io/laurensdelombaert/pen/LQqJQM
+Codepen: <https://codepen.io/laurensdelombaert/pen/LQqJQM>
 
-Github Repo: https://github.com/laurensdelombaert/webtech-portfolio
+Github Repo: <https://github.com/laurensdelombaert/webtech-portfolio>
