@@ -2,6 +2,22 @@
 
 In dit bestand kan u mijn werken voor het vak Webtech 3 [YP5536] raadplegen. Voor vragen kan u mij DM'en op [@LauDeLombaert](https://twitter.com/LauDeLombaert)
 
+## Table of Contents
+
+<!-- TOC -->
+
+- [Portfolio Laurens De Lombaert](#portfolio-laurens-de-lombaert)
+    - [WEEK 1: GIT IT](#week-1-git-it)
+        - [GIT IT screenshot](#git-it-screenshot)
+    - [Week 2: Flexbox & CSS Grids](#week-2-flexbox--css-grids)
+        - [Flexbox Froggy](#flexbox-froggy)
+        - [CSS Grid Garden](#css-grid-garden)
+    - [Week 3: ECS6](#week-3-ecs6)
+        - [Articles](#articles)
+        - [Links](#links)
+
+<!-- /TOC -->
+
 ## WEEK 1: GIT IT
 
 Team 6 repo: <https://github.com/laurensdelombaert/laboTeam6>
