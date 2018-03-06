@@ -1,5 +1,14 @@
 # Matthias Daelemans
 
+<!-- TOC -->
+
+- [Matthias Daelemans](#matthias-daelemans)
+    - [Week 1 - GIT](#week-1---git)
+    - [Week 2 - CSS Grid + Flexbox](#week-2---css-grid--flexbox)
+    - [Week 3 - ES6](#week-3---es6)
+
+<!-- /TOC -->
+
 ## Week 1 - GIT
 
 Screenshot proof of work GIT-IT
@@ -23,4 +32,5 @@ Screenshot CSS Grid Garden
 ## Week 3 - ES6
 
 Link to Notes app Codepen: https://codepen.io/daelemans_m/pen/PQrBRp
+
 Link to Notes app GitHub repository : https://github.com/mdaelemans/webtech-notes-app
