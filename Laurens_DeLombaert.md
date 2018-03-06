@@ -27,8 +27,13 @@ Team 11 repo: <https://github.com/laurensdelombaert/laboteam11>
 
 ## Week 3: ECS6
 
+### Articles
+
 Article about ECS6 for loops: <https://hacks.mozilla.org/2015/04/es6-in-depth-iterators-and-the-for-of-loop/>
 New in ECS6 website: <http://es6-features.org/>
 
+### Links
+
 Codepen: https://codepen.io/laurensdelombaert/pen/LQqJQM
+
 Github Repo: https://github.com/laurensdelombaert/webtech-portfolio
