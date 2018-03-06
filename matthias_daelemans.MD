@@ -19,3 +19,8 @@ Screenshot Froggy
 Screenshot CSS Grid Garden
 
 ![Screenshot CSS Grid Garden](http://develooping.be/webtech/screenshot_cssgridgarden.png)
+
+## Week 3 - ES6
+
+Link to Notes app Codepen: https://codepen.io/daelemans_m/pen/PQrBRp
+Link to Notes app GitHub repository : https://github.com/mdaelemans/webtech-notes-app
