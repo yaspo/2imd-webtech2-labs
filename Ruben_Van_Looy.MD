@@ -18,3 +18,8 @@ Screenshot Flexbox Froggy
 
 Screenshot Grid Garden
 ![Grid Garden](https://i.imgur.com/52VxzoA.png)
+
+## Week 3
+
+Link to codepen of ES6 assignment : https://codepen.io/yaspo/pen/GQbjvd  
+Link to Github repository of E6 assigment : https://github.com/yaspo/Lab-3-Notes-App
