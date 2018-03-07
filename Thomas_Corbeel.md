@@ -13,3 +13,9 @@ https://github.com/MindfulMissfit/css-grid
 ![alt text](https://i.imgur.com/sDWu0lU.png)
 
 ![alt text](https://i.imgur.com/EnDewR3.png)
+
+# Week 3 - ES6, Todo app
+
+https://codepen.io/Corbeel1/pen/bLXpbJ
+
+https://github.com/Corbeel1/ToDoAppJS
