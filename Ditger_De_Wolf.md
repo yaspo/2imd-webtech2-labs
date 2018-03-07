@@ -20,3 +20,11 @@ https://github.com/Ditger/Lab1
 
 **Kweeni - Stel een vraag Page CodePen**
 https://codepen.io/Ditger/pen/OQdLbj
+
+## Week 3 - Todo App - Revenge of ES6 ##
+**GitHub**
+https://github.com/Ditger/Todo-App
+
+**Codepen.io**
+https://codepen.io/Ditger/pen/aqepOj
+
