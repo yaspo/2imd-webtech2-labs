@@ -13,3 +13,8 @@
 ![Grid Garden completed](https://rafaeldesign.be/school/webtech/gridgarden.png "Grid Garden completed")
 ### Kweeni page
 [Link to Kweeni codepen](https://codepen.io/RafaelFernandez/pen/GQYaVz)
+
+## Week 3: ES6
+### Todo app
+[Link to Todo app codepen](https://codepen.io/RafaelFernandez/pen/mXZPgy)
+[Link to Todo app GitHub](https://github.com/RafaelDesignBE/Webtech3/tree/master/Todo%20App)
