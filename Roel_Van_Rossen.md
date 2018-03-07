@@ -19,3 +19,4 @@ codepen link: https://codepen.io/roelifant/pen/eVboLj
 # Week 3 - ES6 Notes App
 
 codepen link: https://codepen.io/roelifant/pen/RQOgXM
+repository link: https://github.com/roelifant/Webtech3-repository
