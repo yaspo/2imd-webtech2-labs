@@ -22,3 +22,11 @@
 ### Flexfrogs & CSSgarden
 ![alt text](https://i.imgur.com/UwwD2jF.jpg "flexfrog")
 ![alt text](https://i.imgur.com/BVScOMk.jpg "cssgarden")
+
+## WEEK 3 - ES6
+
+### Codepen
+[Link to codepen](https://codepen.io/margotdesmet/pen/PRYYYB?editors=1111)
+
+### Github
+[Link to repository](https://github.com/maryelies/portfolio/tree/master/notesapp)
